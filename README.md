@@ -33,7 +33,7 @@
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40"/> <!-- Pandas -->
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40"/> <!-- NumPy -->
   <img src="https://imgs.search.brave.com/IDnKLHY7Vzn-Y8AQGHfqhmGa0qghzEgn_6WmCA3c7eM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pY29u/bG9nb3ZlY3Rvci5j/b20vdXBsb2Fkcy9p/bWFnZXMvMjAyNC8x/Mi9zbS02NzcxMmFk/ZDk0M2RhLU1hdHBs/b3RsaWIud2VicA" width="40"/> <!-- Matplotlib -->
-  <img src="https://iconscout.com/lottie-animation/business-data-processing-animation_9006617" width="40"/> <!-- Data Science -->
+  <img src="https://imgs.search.brave.com/7PCwKg3WrG7E_dRjrIEKIPq1JB5xRiCSTRiGAe3U4VY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNjYv/MTQ2LzgyNS9zbWFs/bC9saW5lcy0zZC1j/dWJlLWRhdGEtc2Np/ZW5jZS1haS1sb2dv/LWluLWZ1dHVyaXN0/aWMtbmVvbi1zdHls/ZS1mb3ItdGVjaC1i/cmFuZGluZy1tYWNo/aW5lLWxlYXJuaW5n/LXRvb2xzLWJpZy1k/YXRhLWFuYWx5dGlj/cy1tb2Rlcm4tYWJz/dHJhY3QtYmlnZGF0/YS1pY29uLWlsbHVz/dHJhdGlvbi12ZWN0/b3IuanBn" width="40"/> <!-- Data Science -->
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40"/> <!-- Machine Learning -->
 </p>
 
@@ -43,7 +43,7 @@
   <img src="https://keras.io/img/logo.png" width="40"/> <!-- Keras -->
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"/> <!-- Neural Network -->
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="40"/> <!-- AI Brain -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWN2d3c4b21jcTQyemh5YTRtNml5ZXhhZGo3aXEyMWY1bTdpZ2NzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/V4NSR1NG2p0KeJJyr5/giphy.gif" width="40"/> <!-- ChatGPT / Gen AI -->
+  <img src="https://imgs.search.brave.com/VG7hrqk9yQT1iJKOqkhta9_O2z_d6QM4_cDJdWy17H0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY2hhdGdw/dC1jaGF0Ym90LXZp/cnR1YWwtYXNzaXN0/YW50LWNvbXB1dGVy/LXNjcmVlbi05dGFz/bGpvNDc4eGE2Znpt/LmdpZg.jpeg" width="40"/> <!-- ChatGPT / Gen AI -->
 </p>
 
 #### 🐘 Big Data & Distributed Systems  
