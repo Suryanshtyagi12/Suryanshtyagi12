@@ -32,8 +32,8 @@
 <p>
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40"/> <!-- Pandas -->
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40"/> <!-- NumPy -->
-  <img src="https://media.giphy.com/media/PoQ1J7dF9RnSg/giphy.gif" width="40"/> <!-- Matplotlib -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40"/> <!-- Data Science -->
+  <img src="https://imgs.search.brave.com/IDnKLHY7Vzn-Y8AQGHfqhmGa0qghzEgn_6WmCA3c7eM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pY29u/bG9nb3ZlY3Rvci5j/b20vdXBsb2Fkcy9p/bWFnZXMvMjAyNC8x/Mi9zbS02NzcxMmFk/ZDk0M2RhLU1hdHBs/b3RsaWIud2VicA" width="40"/> <!-- Matplotlib -->
+  <img src="https://iconscout.com/lottie-animation/business-data-processing-animation_9006617" width="40"/> <!-- Data Science -->
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40"/> <!-- Machine Learning -->
 </p>
 
