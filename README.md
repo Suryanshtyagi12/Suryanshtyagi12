@@ -48,7 +48,7 @@
 
 #### 🐘 Big Data & Distributed Systems  
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.jpg" width="50"/> <!-- Hadoop -->
+  <img src="https://imgs.search.brave.com/YXYwQScO-gQw12TTMv3XdYFspdbOMhoEBBwf7V4I4vY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbmF2/YXJvLmdpdGh1Yi5p/by9iaWctZGF0YS9f/aW1hZ2VzL2hhZG9v/cC5wbmc" width="50"/> <!-- Hadoop -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Apache_Hive_logo.svg" width="40"/> <!-- Hive -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80"/> <!-- Spark -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40"/> <!-- Scala -->
