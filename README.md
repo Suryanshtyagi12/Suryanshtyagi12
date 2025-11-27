@@ -10,11 +10,13 @@
 ### 🚀 About Me
 
 - 🎓 Final-year **B.Tech CSE student**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning & Data Science**
-- 📚 Strong in **Python, C++, ML/DL Algorithms, Statistics & SQL**
-- 📊 Exploring **Computer Vision, NLP, Generative AI, and Model Deployment**
-- 🎯 Goal: **Become an AI Engineer & secure a placement above 10+ LPA**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning & Generative AI**
+- ⚙️ Skilled in **Python, C++, ML/DL Algorithms, Statistics & SQL**
+- 🧠 Experienced with **LLMs, RAG pipelines, AI Agents, Prompt Engineering & Embeddings**
+- 🔍 Actively exploring **Computer Vision, NLP, Multi-Agent Systems, and LLM-based automation**
+- 🏗️ Hands-on with **model training, fine-tuning, vector databases, and deployment workflows**
 - 📫 Reach me at: **tyagisurya.04@gmail.com**
+
 
 ---
 
@@ -37,41 +39,49 @@
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="40"/> <!-- Machine Learning -->
 </p>
 
-#### 🤖 Deep Learning & Gen AI  
+#### 🤖 Deep Learning
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40"/> <!-- TensorFlow -->
   <img src="https://keras.io/img/logo.png" width="40"/> <!-- Keras -->
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="40"/> <!-- Neural Network -->
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="40"/> <!-- AI Brain -->
-  <img src="https://imgs.search.brave.com/VG7hrqk9yQT1iJKOqkhta9_O2z_d6QM4_cDJdWy17H0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY2hhdGdw/dC1jaGF0Ym90LXZp/cnR1YWwtYXNzaXN0/YW50LWNvbXB1dGVy/LXNjcmVlbi05dGFz/bGpvNDc4eGE2Znpt/LmdpZg.jpeg" width="40"/> <!-- ChatGPT / Gen AI -->
+  <img src="https://tse3.mm.bing.net/th/id/OIP.E2UN5aFfIf8l6a7fKy5prQHaEK?pid=Api&P=0&h=180" width="40"/> <!-- ChatGPT / Gen AI -->
+</p>
+
+#### 🧠 RAG, LLMs & GenAI Skills
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/> <!-- ChatGPT -->
+  <img src="https://tse1.mm.bing.net/th/id/OIP._5MmFY-vTbCBF1B9V5MJTwHaHa?pid=Api&P=0&h=180" width="40"/> <!-- LangChain -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/> <!-- HuggingFace -->
+  <img src="https://tse3.mm.bing.net/th/id/OIP.RISQnHRd7E3dSzIygNoBEgHaEK?pid=Api&P=0&h=180" width="40"/> <!-- OpenAI -->
+  <img src="https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png" width="45"/> <!-- Google Cloud -->
 </p>
 
 #### 🐘 Big Data & Distributed Systems  
 <p>
   <img src="https://imgs.search.brave.com/YXYwQScO-gQw12TTMv3XdYFspdbOMhoEBBwf7V4I4vY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbmF2/YXJvLmdpdGh1Yi5p/by9iaWctZGF0YS9f/aW1hZ2VzL2hhZG9v/cC5wbmc" width="50"/> <!-- Hadoop -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Apache_Hive_logo.svg" width="40"/> <!-- Hive -->
+  <img src="https://tse1.mm.bing.net/th/id/OIP.d9eMtMR1bvmzGT2Yw9kD_wHaGq?pid=Api&P=0&h=180" width="40"/> <!-- Hive -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80"/> <!-- Spark -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40"/> <!-- Scala -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache-Kafka-Logo.svg" width="80"/> <!-- Kafka -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PySpark_logo.svg" width="70"/> <!-- PySpark -->
+  <img src="https://tse4.mm.bing.net/th/id/OIP.56FedCmAVCqjBe1Y7l3BdgHaHa?pid=Api&P=0&h=180" width="80"/> <!-- Kafka -->
+  <img src="https://tse2.mm.bing.net/th/id/OIP.GF6IKO9vvJ1JQPGfonxQmwHaDt?pid=Api&P=0&h=180" width="70"/> <!-- PySpark -->
 </p>
+
 
 #### 📊 Data Visualization  
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/> <!-- Tableau -->
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="40"/> <!-- Excel -->
-  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="40"/> <!-- Power BI -->
+  <img src="https://up.yimg.com/ib/th/id/OIP.Oxo-u9GMK3zbEM5h-FiVnQHaEK?pid=Api&rs=1&c=1&qlt=95&w=203&h=114" width="40"/> <!-- Power BI -->
 </p>
 
 #### ⚙ Tools, Platforms & Deployment  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> 
-  <img src="https://media.giphy.com/media/SsTcO55LJDBsI/giphy.gif" width="40"/> <!-- Jupyter -->
+  <img src="https://tse3.mm.bing.net/th/id/OIP.dpFhQirNIQTKNH6X7NValgAAAA?pid=Api&P=0&h=180" width="40"/> <!-- Jupyter -->
   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" width="40"/> <!-- VS Code -->
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="50"/> <!-- Docker -->
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/> <!-- Linux -->
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" width="70"/> <!-- Streamlit -->
+  <img src="https://tse1.mm.bing.net/th/id/OIP.z0FEUjdWW0eJmBzSEXM96wHaBP?pid=Api&P=0&h=180" width="70"/> <!-- Streamlit -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/> <!-- Hugging Face -->
 </p>
 
@@ -82,17 +92,21 @@
 
 | 🧠 Project | 🔍 Description | 🛠 Tech Stack |
 |------------|----------------|----------------|
-| 📉 **Customer Churn Prediction** | Built an Artificial Neural Network (ANN) to predict whether a customer will leave a telecom company. | Python, TensorFlow, Keras, Scikit-learn |
-| 💰 **Loan Prediction App** | A web app that predicts loan eligibility and provides smart AI-based feedback to users. | Python, Scikit-learn, Streamlit |
-| 🎙 **Voice Meeting Summarizer** | Converts audio → text → summary → speech using AI. Works for meetings and lectures. | Whisper AI, Transformers, gTTS, Python |
-| ❤️ **Heart Disease Prediction** | Machine learning model to predict the chances of heart disease based on medical features. | Python, Scikit-learn, Pandas, Matplotlib |
+| 📘 **RAG Pipeline (ChatGroq)** | Built a complete RAG pipeline with embeddings, vector DB, retriever, and LLM output using ChatGroq. | LangChain, FAISS, HuggingFace, ChatGroq |
+| 🧩 **VectorStore → Retriever → LLM** | Implemented a modular RAG flow for document search and answer generation. | LangChain, Vector DB, FAISS |
+| 📉 **Customer Churn Prediction** | ANN model to predict whether a telecom customer will leave. | Python, TensorFlow, Keras |
+| 💰 **Loan Prediction App** | Web app for predicting loan eligibility. | Python, Scikit-learn, Streamlit |
+| 🎙 **Voice Meeting Summarizer** | Converts audio → text → summary → speech. | Whisper AI, Transformers, gTTS |
+| ❤️ **Heart Disease Prediction** | Predicts heart disease risk using ML models. | Python, Scikit-learn, Pandas |
+
 
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Suryanshtyagi12&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Suryanshtyagi12&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryanshtyagi12&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
